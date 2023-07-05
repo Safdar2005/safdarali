@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Safdar Ali</h1>
 <h3 align="center">A passionate Software Engineer developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="
-https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right"alt="coding"width="400"src="![image](https://github.com/Safdar2005/safdarali/assets/133575060/a4f86e83-da82-4638-8a75-fe9ba3a3857d)
+.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safdar2005&label=Profile%20views&color=0e75b6&style=flat" alt="safdar2005" /> </p>
 
@@ -22,7 +22,5 @@ https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safdar2005&show_icons=true&locale=en" alt="safdar2005" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safdar2005&" alt="safdar2005" /></p>
-
-
 
 
